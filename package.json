@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BilehalHarikrishna/npmbuild/issues"
   },
-  "homepage": "https://github.com/BilehalHarikrishna/npmbuild#readme"
+  "homepage": "https://github.com/BilehalHarikrishna/npmbuild#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
